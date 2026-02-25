@@ -1,4 +1,4 @@
-Privacy Policy – GlowGuide
+Privacy Policy – BeautyGM: Beauty Glow Map
 
 آخر تحديث: ديسمبر 2025
 
@@ -34,7 +34,7 @@ Privacy Policy – GlowGuide
 
 يوفر التطبيق طرق تسجيل الدخول التالية:
 
-البريد الإلكتروني وكلمة المرور (حساب GlowGuide)
+البريد الإلكتروني وكلمة المرور (حساب BeautyGM)
 
 تسجيل الدخول عبر Google
 
@@ -74,7 +74,7 @@ Privacy Policy – GlowGuide
 
 6. ملفات تعريف الارتباط (Cookies)
 
-لا يستخدم تطبيق GlowGuide ملفات تعريف الارتباط (Cookies).
+لا يستخدم تطبيق BeautyGM ملفات تعريف الارتباط (Cookies).
 
 لا يوجد موقع إلكتروني مرتبط بالتطبيق حالياً.
 
@@ -104,7 +104,7 @@ Privacy Policy – GlowGuide
 
 🇺🇸 Privacy Policy (English)
 
-GlowGuide values your privacy. This Privacy Policy explains how we collect, use, and protect your information when you use the application.
+BeautyGM values your privacy. This Privacy Policy explains how we collect, use, and protect your information when you use the application.
 
 1. Information We Collect
 
@@ -132,9 +132,9 @@ Any additional information provided during account creation
 
 2. Login Methods
 
-GlowGuide supports the following login methods:
+BeautyGM supports the following login methods:
 
-Email and password (GlowGuide account)
+Email and password (BeautyGM account)
 
 Google Sign-In
 
@@ -174,7 +174,7 @@ Data is only shared when necessary to operate and secure the app.
 
 6. Cookies
 
-GlowGuide does not use cookies.
+BeautyGM does not use cookies.
 
 The app does not currently have a website.
 
@@ -192,7 +192,7 @@ Delete their account permanently from within the app
 
 9. Global Availability
 
-GlowGuide is available for users worldwide.
+BeautyGM is available for users worldwide.
 
 10. Contact Us
 
@@ -201,4 +201,5 @@ If you have any questions about this Privacy Policy, please contact us:
 📧 GlowGuideSup@gmail.com
 
 👤 Developer: Ahmad Hasan Tafankaji
+
 👤 Developer Phone number: +963981544999
